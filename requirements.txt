@@ -1,8 +1,6 @@
-proj
-geos
-cython 
-numpy 
-pyshp
+libproj-dev
+proj-data
+proj-bin
 shapely==1.7.0
 cython==0.29.18
 zarr==2.4.0
