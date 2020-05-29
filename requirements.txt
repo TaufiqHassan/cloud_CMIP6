@@ -1,7 +1,4 @@
-pip
-libproj-dev
-proj-data
-proj-bin
+python==3.7
 shapely==1.7.0
 cython==0.29.18
 zarr==2.4.0
