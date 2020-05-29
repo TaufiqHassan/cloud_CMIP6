@@ -1,5 +1,6 @@
 proj==0.2.0
 geos==0.2.2
+numpy==1.18.4
 shapely==1.7.0
 cython==0.29.18
 zarr==2.4.0
