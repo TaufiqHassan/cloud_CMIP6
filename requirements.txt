@@ -1,2 +1,11 @@
 numpy
+xarray
+scipy
+jupyter
+matplotlib
+cftime
+pandas
+nc-time-axis
+holoviews
+hvplot
 cartopy
