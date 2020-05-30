@@ -1,11 +1,6 @@
-name: geo_scipy_3
 channels:
-  - defaults
   - conda-forge
 dependencies:
-  - holoviews
-  - scipy
-  - hvplot
   - cartopy
   - jupyter
   - xarray
@@ -15,4 +10,9 @@ dependencies:
   - pandas
   - python
   - numpy
-prefix: /Users/jkingslake/opt/anaconda3/envs/geo_scipy_3
+  - eofs
+  - zarr
+  - gcsfs
+  - bokeh
+  - tornado
+  - distributed
