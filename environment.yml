@@ -15,4 +15,5 @@ dependencies:
   - zarr 
   - gcsfs 
   - cftime 
-  - nc-time-axis 
+  - nc-time-axis
+  - eofs
