@@ -1,12 +1,13 @@
 channels:
   - conda-forge
 dependencies:
+  - python=3
+  - matplotlib
   - numpy
-  - bokeh=0.13
-  - dask=0.20
-  - dask-ml=0.10.0
-  - distributed=1.24
-  - jupyterlab=0.35.1
+  - bokeh
+  - dask
+  - distributed
+  - jupyterlab
   - netcdf4
   - pandas
   - xarray
