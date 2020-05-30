@@ -1,4 +1,17 @@
 channels:
   - conda-forge
 dependencies:
+  - numpy
+  - bokeh=0.13
+  - dask=0.20
+  - dask-ml=0.10.0
+  - distributed=1.24
+  - jupyterlab=0.35.1
+  - netcdf4
+  - pandas
+  - xarray
   - cartopy
+  - zarr 
+  - gcsfs 
+  - cftime 
+  - nc-time-axis 
