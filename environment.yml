@@ -2,12 +2,3 @@ channels:
   - conda-forge
 dependencies:
   - cartopy
-  - xarray
-  - matplotlib
-  - cftime
-  - nc-time-axis
-  - pandas
-  - numpy
-  - eofs
-  - zarr
-  - gcsfs
